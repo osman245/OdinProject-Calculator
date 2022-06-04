@@ -1,0 +1,5 @@
+Step 1: Create a basic layout with several buttons.....
+Step 2: Implement all buttons.(each value should appear in the display place..)
+step 3: Implement all operations( 4 possibilities, addition subtraction, divison or multiplication
+) use the split function and parse to number to calculate the ans.
+Step 4: design the UI ( call it a wrappazz..)

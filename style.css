@@ -1,0 +1,23 @@
+.title {
+text-align: center;
+font-weight: 800;
+color: Purple;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 1em;
+}
+
+main {
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+
+.card {
+    border: 2px solid grey;
+    padding:1em;
+    border-radius: 20%;
+}
